@@ -1,5 +1,7 @@
 # Projeto Notebooklm
 
+Link para acesso ao projeto direto no NotebookLm: https://notebooklm.google.com/notebook/a60986bc-6648-4a28-b866-d09981e41537
+
 ## 1. Contexto e Objetivos
 - Análise de dados com python
 - Utilizar o notebooklm para ampliar o conhecimento de análise de dados com python
